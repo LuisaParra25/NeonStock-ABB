@@ -29,7 +29,7 @@ public class ArbolInventario {
     // Lista los IDs de menor a mayor
     public void mostrarInorden() {
         if (raiz == null) {
-            System.out.println("El inventario está vacío.");
+            System.out.println("Alerta: El inventario actual no tiene productos registrados");
         } else {
             ejecutarInorden(raiz);
         }
