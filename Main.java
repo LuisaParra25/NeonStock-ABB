@@ -17,7 +17,7 @@ public class Main {
             try {
                 opcion = scanner.nextInt();
                 scanner.nextLine(); // Limpiar el buffer
-
+                //Menu interactivo controlaopor switch case
                 switch (opcion) {
                     case 1:
                         System.out.print("Ingrese el ID numérico del artículo: ");
