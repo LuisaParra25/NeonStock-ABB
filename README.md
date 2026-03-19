@@ -24,4 +24,4 @@ Aplicar el concepto de Árbol Binario de Búsqueda (ABB) y su estructura lógica
 [Insertar Enlace de YouTube/Drive Aquí]
 
 **Desarrollado por:** 
- [] , [] y [Jorge Alejandro Rubio Giraldo]
+ [] , [Luisa Fernanda Parra Arboleda] y [Jorge Alejandro Rubio Giraldo]
