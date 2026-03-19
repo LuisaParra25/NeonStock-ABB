@@ -6,7 +6,7 @@ public class ArbolInventario {
         this.raiz = null;
     }
 
-    // --- 1. Método Insertar (Recursivo) ---
+    // Si el ID es menor, se va por la rama izquierda
     public void insertar(int id, String nombre) {
         raiz = insertarRecursivo(raiz, id, nombre);
     }
@@ -26,7 +26,7 @@ public class ArbolInventario {
         return actual;
     }
 
-    // --- 2. Método Recorrido Inorden (Lista los IDs de menor a mayor) ---
+    // Lista los IDs de menor a mayor
     public void mostrarInorden() {
         if (raiz == null) {
             System.out.println("El inventario está vacío.");
@@ -43,7 +43,7 @@ public class ArbolInventario {
         }
     }
 
-    // --- 3. Método Buscar (Por ID) ---
+    // Método Buscar Por ID
     public boolean buscar(int id) {
         return buscarRecursivo(raiz, id);
     }
