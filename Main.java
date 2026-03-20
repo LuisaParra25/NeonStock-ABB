@@ -7,7 +7,11 @@ public class Main {
         int opcion = -1;
 
         while (opcion != 0) {
+<<<<<<< HEAD
             System.out.println("\n=== TERMINAL DE INVENTARIO: NeonStock-ABB ===");
+=======
+            System.out.println("\n=== TERMINAL DE INVENTARIO: NEONSTOCK-ABB ===");
+>>>>>>> f4ec27c2975e5d9127e48efc4fe6ac9c401b2e15
             System.out.println("1. Registrar nuevo artículo");
             System.out.println("2. Mostrar inventario (Recorrido Inorden)");
             System.out.println("3. Buscar artículo por ID");
