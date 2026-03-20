@@ -10,7 +10,7 @@ Aplicar el concepto de Árbol Binario de Búsqueda (ABB) y su estructura lógica
   La recursividad se aplicó principalmente en los métodos de inserción y búsqueda. En lugar de usar bucles `while` complejos, el método se llama a sí mismo evaluando si el ID entrante es mayor o menor que el nodo actual, desplazándose por los punteros `izquierdo` o `derecho` hasta encontrar un espacio vacío (`null`) para insertar el nuevo producto, o hasta encontrar el ID deseado.
 
 ## 🚀 Instrucciones de Ejecución
-1. Clonar el repositorio: `git clone [URL_DEL_REPO]`
+1. Clonar el repositorio: `git clone [https://github.com/LuisaParra25/NeonStock-ABB]`
 2. Abrir la carpeta en VS Code con el JDK de Eclipse Temurin configurado.
 3. Compilar y ejecutar el archivo `Main.java`.
 
