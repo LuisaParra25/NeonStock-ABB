@@ -1,4 +1,4 @@
-# 📦 CyberNode-Inventory (Sistema de Inventario basado en ABB)
+# 📦 NeonStock-Inventory (Sistema de Inventario basado en ABB)
 
 ## 🎯 Objetivo
 Aplicar el concepto de Árbol Binario de Búsqueda (ABB) y su estructura lógica para gestionar un sistema de clasificación de inventario en Java, implementando nodos y punteros de forma manual sin el uso de librerías automáticas.
