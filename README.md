@@ -15,10 +15,14 @@ Aplicar el concepto de Árbol Binario de Búsqueda (ABB) y su estructura lógica
 3. Compilar y ejecutar el archivo `Main.java`.
 
 ## 📸 Capturas de Pantalla de la Ejecución
+<details>
+  <summary> Haz clic aquí para ver todas las capturas</summary>
+  
+  1. **Menú e Inserción:** ![imagen 1](imagen1.png)
+  2. **Búsqueda exitosa:** ![imagen 2](imagen2.png)
+  3. **Listado Inorden:** ![imagen 3](imagen3.png)
+</details>
 
-1. **Menú e Inserción:** `(imagen1.png)`
-2. **Búsqueda exitosa:** `(imagen2.png)`
-3. **Listado Inorden:** `(imagen3.png)`
 
 ## 🎥 Enlace al Video de Sustentación
 [Insertar Enlace de YouTube/Drive Aquí]
